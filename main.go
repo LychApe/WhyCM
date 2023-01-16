@@ -1,1 +1,5 @@
 package WhyCM
+
+func main() {
+
+}
